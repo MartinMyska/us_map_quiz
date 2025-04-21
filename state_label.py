@@ -1,7 +1,7 @@
 from turtle import Turtle
 
 ALIGNMENT = "center"
-FONT = ()
+FONT = (16, "Calibri")
 
 
 class StateLabel(Turtle):
